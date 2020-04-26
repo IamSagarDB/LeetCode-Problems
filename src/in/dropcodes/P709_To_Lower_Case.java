@@ -18,6 +18,10 @@ Example 3:
 
 Input: "LOVELY"
 Output: "lovely"
+
+Note: ASCII
+       'A' -> 65 and 'Z' -> 90
+       'a' -> 'A'+32 and 'z' -> 'Z' + 32
  */
 
 public class P709_To_Lower_Case {
