@@ -54,7 +54,7 @@ public class P509_Fibonacci_Number {
 fib recursion working
  example n = 6 ans should be 8
 
-                                             (n-1) ans (n-2)
+                                             (n-1) and (n-2)
 
                                                     6
                                       /                       \
