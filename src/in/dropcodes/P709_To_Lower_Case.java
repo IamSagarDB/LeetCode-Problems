@@ -2,6 +2,9 @@ package in.dropcodes;
 
 import java.util.Scanner;
 /*
+Author : Sagar D B (iamSagarDB)
+github: https://github.com/iamsagardb
+
 Problem - 709 To Lower Case
 
 Implement function ToLowerCase() that has a string parameter str, and returns the same string in lowercase.
