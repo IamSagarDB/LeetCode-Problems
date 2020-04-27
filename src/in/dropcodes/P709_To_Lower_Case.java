@@ -33,8 +33,15 @@ public class P709_To_Lower_Case {
         Scanner s = new Scanner(System.in);
         String str = s.nextLine();
 
+        String res = toLowerCase(str);
+        System.out.println(res);
+
+    }
+
+    // LeetCode Function
+    public static String toLowerCase(String str) {
         if (str == null) {
-            System.out.println(str);
+            return str;
         }
         StringBuffer sb = new StringBuffer();
         for (int i = 0; i < str.length(); i++) {
@@ -45,6 +52,7 @@ public class P709_To_Lower_Case {
                 sb.append(c);
             }
         }
-        System.out.println(sb.toString());
+        return sb.toString();
+
     }
 }

@@ -37,18 +37,19 @@ public class P977_Squares_of_a_Sorted_Array {
             arr[i] = s.nextInt(); // getting array values
         }
 
-        int[] res_arr = new int[size]; //creating new array to store squares values
-
-        for (int j = 0; j < size; j++) {
-            res_arr[j] = arr[j] * arr[j];  // squaring array elements
+        int[] res_arr = sortedSquares(arr);
+        for (int ans : res_arr) {
+            System.out.print(ans + " ");
         }
+    }
 
-        Arrays.sort(res_arr); //Sorting array in ascending order
-
-        for (int ans:res_arr) {
-            System.out.print(ans+" ");
+    // LeetCode Function
+    public static int[] sortedSquares(int[] A) {
+        int res[] = new int[A.length];
+        for (int i = 0; i < A.length; i++) {
+            res[i] = A[i] * A[i];
         }
-
-
+        Arrays.sort(res);
+        return res;
     }
 }
