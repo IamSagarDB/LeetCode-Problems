@@ -18,23 +18,16 @@ A linked list can be reversed either iteratively or recursively. Could you imple
  */
 
 public class P206_Reverse_Linked_List {
-    class ListNode {
-        int val;
-        ListNode next;
-        public ListNode(int x) {
-            val = x;
-        }
 
-        // LeetCode Function
-        public ListNode reverseList(ListNode head) {
-            ListNode pre = null;
-            while (head != null) {
-                ListNode next = head.next;
-                head.next = pre;
-                pre = head;
-                head = next;
-            }
-            return pre;
+    // LeetCode Function
+    public ListNode reverseList(ListNode head) {
+        ListNode pre = null;
+        while (head != null) {
+            ListNode next = head.next;
+            head.next = pre;
+            pre = head;
+            head = next;
         }
+        return pre;
     }
 }
