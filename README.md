@@ -6,6 +6,7 @@
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Click Here](https://github.com/IamSagarDB/LeetCode-Problems/blob/master/src/in/dropcodes/P13_Roman_to_Integer.java)|Easy||
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Click Here](https://github.com/IamSagarDB/LeetCode-Problems/blob/master/src/in/dropcodes/P26_Remove_Duplicates_from_Sorted_Array.java)|Easy|O(N)|O(1)
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Click Here](https://github.com/IamSagarDB/LeetCode-Problems/blob/master/src/in/dropcodes/P27_Remove_Element.java)|Easy|O(N)|O(1)
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Click Here](https://github.com/IamSagarDB/LeetCode-Problems/blob/master/src/in/dropcodes/P206_Reverse_Linked_List.java)|Easy|O(N)|O(N)
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Click Here](https://github.com/IamSagarDB/LeetCode-Problems/blob/master/src/in/dropcodes/P509_Fibonacci_Number.java)|Easy|O(2^N)|O(N)
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Click Here](https://github.com/IamSagarDB/LeetCode-Problems/blob/master/src/in/dropcodes/P561_Array_Partition_I.java)|Easy||
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Click Here](https://github.com/IamSagarDB/LeetCode-Problems/blob/master/src/in/dropcodes/P709_To_Lower_Case.java)|Easy||
