@@ -4,7 +4,7 @@ package in.dropcodes;
 Author : Sagar D B (iamSagarDB)
 github: https://github.com/iamsagardb
 
-206. Reverse Linked List
+Problem 206. Reverse Linked List
 
 Reverse a singly linked list.
 
