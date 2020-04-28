@@ -30,7 +30,7 @@ Coud you solve it without converting the integer to a string?
 
  */
 
-import java.util.Scanner;
+import java.util.*;
 
 public class P9_Palindrome_Number {
     public static void main(String[] args) {
