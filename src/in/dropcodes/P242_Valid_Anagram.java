@@ -41,7 +41,6 @@ public class P242_Valid_Anagram {
         if (s.length() != t.length()) {
             return false;
         }
-
         HashMap<Character, Integer> map = new HashMap<Character, Integer>();
 
         // insert string s values into HashMap
