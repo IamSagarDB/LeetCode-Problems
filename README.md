@@ -14,6 +14,7 @@
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Click Here](https://github.com/IamSagarDB/LeetCode-Problems/blob/master/src/in/dropcodes/P206_Reverse_Linked_List.java)|Easy|O(N)|O(N)
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Click Here](https://github.com/IamSagarDB/LeetCode-Problems/blob/master/src/in/dropcodes/P234_Palindrome_Linked_List.java)|Easy|O(N)|O(1)|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Click Here](https://github.com/IamSagarDB/LeetCode-Problems/blob/master/src/in/dropcodes/P237_Delete_Node_in_a_Linked_List.java)|Easy|O(1)||
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Click Here](https://github.com/IamSagarDB/LeetCode-Problems/blob/master/src/in/dropcodes/P242_Valid_Anagram.java)|Easy|||
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Click Here](https://github.com/IamSagarDB/LeetCode-Problems/blob/master/src/in/dropcodes/P258_Add_Digits.java)|Easy|||
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Click Here](https://github.com/IamSagarDB/LeetCode-Problems/blob/master/src/in/dropcodes/P509_Fibonacci_Number.java)|Easy|O(2^N)|O(N)
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Click Here](https://github.com/IamSagarDB/LeetCode-Problems/blob/master/src/in/dropcodes/P561_Array_Partition_I.java)|Easy||
