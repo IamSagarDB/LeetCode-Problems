@@ -4,6 +4,7 @@
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Click Here](https://github.com/IamSagarDB/LeetCode-Problems/blob/master/src/in/dropcodes/P1_Two_Sum.java)|Easy||
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Click Here](https://github.com/IamSagarDB/LeetCode-Problems/blob/master/src/in/dropcodes/P9_Palindrome_Number.java)|Easy||
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Click Here](https://github.com/IamSagarDB/LeetCode-Problems/blob/master/src/in/dropcodes/P13_Roman_to_Integer.java)|Easy||
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Click Here](https://github.com/IamSagarDB/LeetCode-Problems/blob/master/src/in/dropcodes/P20_Valid_Parentheses.java)|Easy||
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Click Here](https://github.com/IamSagarDB/LeetCode-Problems/blob/master/src/in/dropcodes/P26_Remove_Duplicates_from_Sorted_Array.java)|Easy|O(N)|O(1)
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Click Here](https://github.com/IamSagarDB/LeetCode-Problems/blob/master/src/in/dropcodes/P27_Remove_Element.java)|Easy|O(N)|O(1)
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Click Here](https://github.com/IamSagarDB/LeetCode-Problems/blob/master/src/in/dropcodes/P35_Search_Insert_Position.java)|Easy|||
