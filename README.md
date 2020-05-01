@@ -19,4 +19,5 @@
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Click Here](https://github.com/IamSagarDB/LeetCode-Problems/blob/master/src/in/dropcodes/P561_Array_Partition_I.java)|Easy||
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Click Here](https://github.com/IamSagarDB/LeetCode-Problems/blob/master/src/in/dropcodes/P709_To_Lower_Case.java)|Easy||
 |799|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Click Here](https://github.com/IamSagarDB/LeetCode-Problems/blob/master/src/in/dropcodes/P977_Squares_of_a_Sorted_Array.java)|Easy|O(NlogN)|O(N)
+|905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Click Here](https://github.com/IamSagarDB/LeetCode-Problems/blob/master/src/in/dropcodes/P905_Sort_Array_By_Parity.java)|Easy|O(N^2)||
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Click Here](https://github.com/IamSagarDB/LeetCode-Problems/blob/master/src/in/dropcodes/P1290_Convert_Binary_Number_in_a_Linked_List_to_Integer.java)|Easy|||
